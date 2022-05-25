@@ -19,7 +19,7 @@ export default class Command extends BaseCommand {
 
     run = async (M: ISimplifiedMessage, parsedArgs: IParsedArgs): Promise<void> => {
             const n = [
-            'https://ahad-cloud.mirror-index.workers.dev/0:/Uploads/video_2022-05-06_02-21-06_7094442746977236992.mp4'
+            'https://telegra.ph/file/9710964eeee092d1acec6.mp4'
         ]
         let chitoge = n[Math.floor(Math.random() * n.length)]
 	if (!parsedArgs.joined) {
@@ -47,7 +47,7 @@ export default class Command extends BaseCommand {
 │⋊ 𝕌𝕤𝕖𝕣: *${M.sender.username}*
 │⋊ ℕ𝕒𝕞𝕖: Lelouch Lamperouge ☮️
 │⋊ ℙ𝕣𝕖𝕗𝕚𝕩: ${this.client.config.prefix}
-│⋊ 𝕆𝕨𝕟𝕖𝕣: *${this.client.config.prefix}mod* Don't Ask Mods if you want to add me in your Group
+│⋊ 𝕆𝕨𝕟𝕖𝕣: 𝐀𝐊𝐔𝐌𝐀
 ╰────────────┈平和                            \n\n`
             const keys = Object.keys(categories)
             for (const key of keys)
@@ -62,7 +62,7 @@ export default class Command extends BaseCommand {
  ──❅┈[ *Lelouch Lamperouge* ]┈❅───
 ┌────────────┈❅
 │   ☯️Lelouch Lamperouge☮️
-│    ©ASUNA MIRROR
+│    ©𝐀𝐊𝐔𝐌𝐀
 └────────────┈⁂
 ❅┈[𝐇𝐚𝐯𝐞 𝐆𝐫𝐞𝐚𝐭 𝐃𝐚𝐲]┈❅
 🎗 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info*` }

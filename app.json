@@ -12,8 +12,8 @@
       "whatsapp-sticker-bot",
       "whatsapp-botto"
   ],
-  "website": "https://github.com/AT3NA/iamlelouch/blob/main/README.md",
-  "repository": "https://github.com/at3na.git",
+  "website": "https://github.com/akumasugi/Lelouch/blob/main/README.md",
+  "repository": "https://github.com/akumasugi/Lelouch.git",
   "logo": "https://telegra.ph/file/46710ef22daada56d9c83.jpg",
   "success_url": "/",
   "env": {

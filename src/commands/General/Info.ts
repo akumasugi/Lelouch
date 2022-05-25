@@ -41,7 +41,7 @@ export default class Command extends BaseCommand {
 		}
 		this.run = async (M: typings.ISimplifiedMessage): Promise<void> => {
 			const chitoge =
-				"https://ahad-cloud.mirror-index.workers.dev/0:/Uploads/video_2022-05-06_02-28-23_7094444621712323584.mp4";
+				"https://c.tenor.com/pQ6BfuU5bxMAAAPo/lelouch-anime.mp4";
 			return void this.client.sendMessage(
 				M.from,
 				{ url: chitoge },

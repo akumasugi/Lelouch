@@ -5,11 +5,11 @@
 
 [![CodeFactor](https://www.codefactor.io/repository/github/shineiichijo/chitoge/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
 
-## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://youtu.be/dQw4w9WgXcQ) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EeIT4nf7PBUD8Kwbm4FgJC) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/AT3NA/iamlelouch.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/akumasugi/Lelouch.git)
 
 </div><br/>
 <br/>
@@ -26,12 +26,12 @@
 ## 💻 Deploy/Hosting Guide
 
 -   Section Moved to
-    [Mikasa-Guides](https://github.com/at3na/mikasabot/blob/main/README.md)
+    [Mikasa-Guides](https://github.com/akumasugi/mikasa/blob/main/README.md)
 
 ## 🍥 Features of the Repo
 
 -   To view all features, click
-    here➡️[Mikasa_featuresList.md](https://github.com/at3na/mikasabot/blob/main/Features.md)
+    here➡️[Mikasa_featuresList.md](https://github.com/akumasugi/mikasa/blob/main/Features.md)
 
 ## 💪 Contribution
 

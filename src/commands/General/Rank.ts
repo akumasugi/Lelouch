@@ -32,9 +32,9 @@ export default class Command extends BaseCommand {
 		try {
 			pfp = await this.client.getProfilePicture(user);
 		} catch (err) {
-			M.reply(`Profile Picture not Accessible of ${username}`);
+			M.reply(`Profile Picture not Accessible of ${username} must be ugly probably`);
 			pfp =
-				"https://cdn.donmai.us/original/ab/5e/ab5e2ec951546e5df432c9233ef9ab8a.jpg";
+				"https://i.ibb.co/pnQbYfw/Code-Geass-Hangyaku-no-Lelouch-Lelouch-Lamperouge-Ichiban-Kuji-Ichiban-Kuji-Code-Geass-Hangyaku-no-L.jpg";
 		}
 		const exp = (await this.client.getUser(user)).Xp;
 		let role: string;
